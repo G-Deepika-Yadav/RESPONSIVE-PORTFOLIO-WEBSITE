@@ -17,3 +17,7 @@ This HTML code represents a simple personal portfolio web page for "G Deepika." 
 The "Languages Known" section uses an unordered list to highlight spoken languages like Telugu, Kannada, and Tamil. At the bottom, there's a contact form inviting users to get in touch. The form collects basic information including name, email, gender, interests (like coding or reading), and a short bio. While functional in layout, some improvements like correcting typos, using valid HTML practices, and ensuring input fields have name and id attributes would enhance accessibility and usability. Overall, it's a good foundational portfolio template for a beginner in web development.
  Output:
  <img width="1886" height="913" alt="pic1" src="https://github.com/user-attachments/assets/d889e686-374d-46a0-b2ec-a92e288c21db" />
+
+ <img width="1892" height="236" alt="pic2" src="https://github.com/user-attachments/assets/8741dd24-7bc2-4cea-978d-9ea8a8c0ae73" />
+                                        Thank Yu....!
+
